@@ -15,8 +15,10 @@ Google Colab is a free cloud service with GPU support. It is like Jupyter Notebo
 
 To import google drive, write this code in code section of colab and run it by `Ctrl+Enter` .
 
-`from google.colab import drive
-drive.mount( '/content/gdrive' )`
+```
+from google.colab import drive
+drive.mount( '/content/gdrive' )
+```
 
 ![Atom](https://i.imgur.com/vyNxcAO.png)
 
