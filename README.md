@@ -8,3 +8,10 @@ Google Colab is a free cloud service with GPU support. It is like Jupyter Notebo
 
 **Step #1 : Sign in to Google Colab and Create a new Python3 notebook.**
 ![Atom](https://i.imgur.com/8Qu5ivW.png)
+
+![Atom](https://i.imgur.com/QZzfIiJ.png)
+
+**Step #2 : Importing google drive to colab**
+
+To import google drive, write this code in code section of colab and run it by > Ctrl+Enter .
+
