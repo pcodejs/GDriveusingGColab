@@ -55,4 +55,3 @@ We can use google colab to download any file on google drive.
 As you can see a folder parrot (parrot OS of 3.7 GB ), downloaded to gdrive using Colab.
 
 Material source:Geeks for Geeks
-
